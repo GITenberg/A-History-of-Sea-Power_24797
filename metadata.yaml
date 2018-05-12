@@ -1,0 +1,33 @@
+_repo: A-History-of-Sea-Power_24797
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Westcott, Allan F. (Allan Ferguson)
+    alias: Westcott, Allan Ferguson
+    birthdate: 1882
+    gutenberg_agent_id: '26740'
+    url: http://www.gutenberg.org/2009/agents/26740
+  - agent_name: Stevens, William Oliver
+    birthdate: 1878
+    deathdate: 1955
+    gutenberg_agent_id: '26739'
+    url: http://www.gutenberg.org/2009/agents/26739
+description: ''
+gutenberg_issued: '2008-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24797'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Sea-power'
+- !lcsh 'Naval history'
+- !lcc 'V'
+title: A History of Sea Power
+url: http://www.gutenberg.org/ebooks/24797
